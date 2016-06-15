@@ -79,7 +79,7 @@
 ;; EXER-05 ---------------------------------------------------------------------
 
 ;; maior-mensalidade-mesmo-titular: linha linha -> string
-;; obj: casos cambas linhas pertençam ao mesmo titular, retornar a que tem
+;; obj: casos ambas linhas pertençam ao mesmo titular, retornar a que tem
 ;;      valor de mensalidade mais alto. Caso tenham mesmo titular e mesmo
 ;;      valor de mensalidade, retornar a primeira linha.
 ;; exemplo:
